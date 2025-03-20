@@ -65,11 +65,11 @@ const Home = () => {
   });
 
   const [seo, setSeo] = useState({
-    title: "Cristiano Santos | Atacante Profissional | Perfil Oficial",
+    title: "Carlos Piquet | Atacante Profissional | Perfil Oficial",
     description:
-      "Perfil oficial de Cristiano Santos, atacante profissional do FC Barcelona. Estatísticas, vídeos de destaque e informações para contato profissional.",
+      "Perfil oficial de Carlos Piquet, atacante profissional do FC Barcelona. Estatísticas, vídeos de destaque e informações para contato profissional.",
     keywords:
-      "Cristiano Santos, atacante, futebol profissional, FC Barcelona, jogador brasileiro",
+      "Carlos Piquet, atacante, futebol profissional, FC Barcelona, jogador brasileiro",
     imageUrl:
       "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1200&q=80",
   });
