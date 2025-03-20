@@ -59,7 +59,7 @@ export interface PlayerData {
 // Default data
 const defaultData: PlayerData = {
   player: {
-    name: "Cristiano Santos",
+    name: "Carlos Piquet",
     position: "Atacante / Ponta Esquerda",
     age: 24,
     nationality: "Brasil",
