@@ -12,7 +12,7 @@ SELECT
   1, 
   jsonb_build_object(
     'player', jsonb_build_object(
-      'name', 'Cristiano Santos',
+      'name', 'Futebol Show',
       'position', 'Atacante / Ponta Esquerda',
       'age', 24,
       'nationality', 'Brasil',
@@ -54,7 +54,7 @@ SELECT
       )
     ),
     'seo', jsonb_build_object(
-      'title', 'Cristiano Santos | Atacante Profissional | Perfil Oficial',
+      'title', 'Futebol Show | Atacante Profissional | Perfil Oficial',
       'description', 'Perfil oficial de Cristiano Santos, atacante profissional do FC Barcelona. Estatísticas, vídeos de destaque e informações para contato profissional.',
       'keywords', 'Cristiano Santos, atacante, futebol profissional, FC Barcelona, jogador brasileiro',
       'imageUrl', 'https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1200&q=80'
