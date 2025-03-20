@@ -85,7 +85,7 @@ interface ProfileSectionProps {
 }
 
 const ProfileSection = ({
-  playerName = "Cristiano Santos",
+  playerName = "Carlos Piquet",
   age = 24,
   nationality = "Brasil",
   height = "1.85m",
