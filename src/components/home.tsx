@@ -16,7 +16,7 @@ const Home = () => {
   // In a real application, this would come from a database or API
   // For demo purposes, we'll check localStorage first, then use default data
   const [playerData, setPlayerData] = useState({
-    name: "Cristiano Santos",
+    name: "Carlos Piquet",
     position: "Atacante / Ponta Esquerda",
     age: 24,
     nationality: "Brasil",
